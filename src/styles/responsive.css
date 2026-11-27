@@ -25,6 +25,10 @@
 
   /* Navigation: ab hier übernimmt das Hamburger-Menü (initHeaderOverflow). */
 
+  .hero__split {
+    grid-template-columns: 1fr;
+  }
+
   .section {
     padding: 3.5rem 0;
   }

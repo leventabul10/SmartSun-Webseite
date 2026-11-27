@@ -186,18 +186,16 @@ function renderSection(section: PageSection, base: string, index: number): strin
 }
 
 export function renderHero(page: PageData, base: string): string {
+  // Das Video hat eigene Texteinblendungen – es steht daher neben dem Text statt dahinter.
   const video = page.hero.video
-    ? `<video class="hero__video" autoplay muted loop playsinline preload="auto" poster="${escapeHtml(page.hero.poster ?? '')}" aria-hidden="true"><source src="${escapeHtml(page.hero.video)}" type="video/mp4" /></video>`
+    ? `<div class="hero__media"><video class="hero__video" autoplay muted loop playsinline preload="auto" poster="${escapeHtml(page.hero.poster ?? '')}" aria-hidden="true"><source src="${escapeHtml(page.hero.video)}" type="video/mp4" /></video></div>`
     : '';
   const cta =
     page.slug === 'terminwunsch'
       ? `<a class="btn btn--primary" href="#anmeldung" target="_self">Zur Anmeldung</a>`
       : `<a class="btn btn--primary" href="/terminwunsch">Jetzt Terminwunsch abgeben</a>`;
   const t = (field: string) => (base ? `${base}/hero/${field}` : '');
-  return `<section class="hero" style="--hero-image: url('${escapeHtml(page.hero.image)}')"${imageAttrs('pages', t('image'), 'Hero-Hintergrundbild')}>
-    ${video}
-    <div class="hero__overlay"></div>
-    <div class="container hero__content">
+  const content = `<div class="hero__content">
       ${page.hero.eyebrow ? `<p class="hero__eyebrow"${textAttrs('pages', t('eyebrow'))}>${escapeHtml(page.hero.eyebrow)}</p>` : ''}
       <h1${textAttrs('pages', t('title'))}>${escapeHtml(page.hero.title)}</h1>
       <p class="hero__subtitle"${textAttrs('pages', t('subtitle'))}>${escapeHtml(page.hero.subtitle)}</p>
@@ -206,7 +204,15 @@ export function renderHero(page: PageData, base: string): string {
         ${cta}
         <a class="btn btn--ghost" href="tel:${escapeHtml(company.phoneShort)}">${escapeHtml(company.phone)}</a>
       </div>
-    </div>
+    </div>`;
+  if (video) {
+    return `<section class="hero hero--video">
+    <div class="container hero__split">${content}${video}</div>
+  </section>`;
+  }
+  return `<section class="hero" style="--hero-image: url('${escapeHtml(page.hero.image)}')"${imageAttrs('pages', t('image'), 'Hero-Hintergrundbild')}>
+    <div class="hero__overlay"></div>
+    <div class="container">${content}</div>
   </section>`;
 }
 

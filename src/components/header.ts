@@ -80,6 +80,10 @@ export function initHeaderOverflow(): void {
   if (!inner || !nav || !list || !moreLi || !moreBtn || !moreMenu) return;
 
   const items = Array.from(list.children).filter((child): child is HTMLElement => child !== moreLi);
+  // Theme-Toggle und Termin-Button wandern im Menümodus mit ins Hamburger-Menü.
+  const extras = Array.from(
+    inner.querySelectorAll<HTMLElement>(':scope > .theme-toggle, :scope > .header-cta'),
+  );
   let menuMode = false;
   let updating = false;
 
@@ -94,9 +98,10 @@ export function initHeaderOverflow(): void {
     menuMode = inMenu;
 
     if (inMenu) {
-      items.forEach((item) => moreMenu.appendChild(item));
+      moreMenu.append(...items, ...extras);
     } else {
       items.forEach((item) => list.insertBefore(item, moreLi));
+      inner.append(...extras);
     }
 
     moreLi.hidden = !inMenu;
@@ -109,7 +114,9 @@ export function initHeaderOverflow(): void {
     // den das Menü durch das Auslagern gerade selbst freigegeben hat.
     placeItems(false);
     void inner.offsetWidth;
-    return inner.scrollWidth <= inner.clientWidth + 1;
+    // Die Nav hat min-width: 0 und schrumpft – dann läuft die Liste unter
+    // Theme-Toggle und CTA, ohne dass .header__inner selbst überläuft.
+    return inner.scrollWidth <= inner.clientWidth + 1 && nav.scrollWidth <= nav.clientWidth + 1;
   };
 
   const update = (): void => {
