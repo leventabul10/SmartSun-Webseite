@@ -1,0 +1,173 @@
+﻿@media (max-width: 1080px) {
+  .card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .nav ul {
+    gap: 0;
+  }
+
+  .nav__item > a,
+  .nav__item > details > summary {
+    padding: 0.55rem 0.5rem;
+    font-size: 0.85rem;
+  }
+
+  .header-cta {
+    display: none;
+  }
+}
+
+@media (max-width: 900px) {
+  .header__inner {
+    min-height: 70px;
+  }
+
+  /* Navigation: ab hier übernimmt das Hamburger-Menü (initHeaderOverflow). */
+
+  .section {
+    padding: 3.5rem 0;
+  }
+
+  .section--split .split {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .section--reverse .split__content {
+    order: 0;
+  }
+
+  .hours {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .map {
+    grid-template-columns: 1fr;
+  }
+
+  .map__frame iframe {
+    height: 360px;
+  }
+
+  .example-grid,
+  .team-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .example-grid--featured {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-auto-rows: 160px;
+  }
+
+  .footer__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .container {
+    width: min(100% - 1.5rem, var(--container));
+  }
+
+  .topbar__inner {
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.25rem;
+    padding-block: 0.35rem;
+  }
+
+  .brand img {
+    width: 150px;
+  }
+
+  .hero {
+    min-height: 500px;
+    padding: 3rem 0;
+  }
+
+  .card-grid,
+  .form-grid,
+  .footer__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-form {
+    padding: 1.5rem;
+  }
+
+  .appointment-call {
+    flex-direction: column;
+    align-items: stretch;
+    text-align: center;
+  }
+
+  .appointment-call__mobile {
+    display: inline-flex;
+    width: 100%;
+  }
+
+  .example-grid,
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .example-grid--featured {
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto;
+  }
+
+  .example-grid--featured .example--large,
+  .example-grid--featured .example--wide,
+  .example-grid--featured .example--tall {
+    grid-column: auto;
+    grid-row: auto;
+  }
+
+  .example-grid--featured .example img {
+    height: 220px;
+  }
+
+  .gallery-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .gallery-item--large {
+    grid-column: span 1;
+    grid-row: span 1;
+  }
+
+  .example img {
+    height: 200px;
+  }
+
+  .map__frame iframe {
+    height: 300px;
+  }
+
+  .gallery-group__head {
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .hours-list li {
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+
+  .footer__bottom {
+    flex-direction: column;
+  }
+
+  .lightbox {
+    gap: 0.25rem;
+    padding: 1rem;
+  }
+
+  .lightbox__nav {
+    width: 40px;
+    height: 40px;
+  }
+}
+

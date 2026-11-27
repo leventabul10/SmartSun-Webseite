@@ -1,0 +1,40 @@
+:root {
+  /* Markenfarben – bleiben in beiden Modi gleich */
+  --orange: #f59c00;
+  --orange-dark: #d48600;
+  --accent-text: #d48600;
+  --ink: #1b1f24;
+  --on-dark: #ffffff;
+
+  /* Obere und untere Leiste nutzen exakt denselben Farbton */
+  --bar: #1b1f24;
+  --bar-text: #e9e5df;
+  --bar-muted: #b9b2aa;
+
+  /* Heller Modus: „Weiß“ ist bewusst leicht grau */
+  --bg: #f4f4f2;
+  --surface: #fbfbfa;
+  --surface-alt: #eeece8;
+  --text: #1b1f24;
+  --muted: #5f6b76;
+  --line: #e2ded8;
+  --shadow: 0 18px 50px rgba(27, 31, 36, 0.09);
+
+  --radius: 20px;
+  --radius-sm: 12px;
+  --container: 1200px;
+  --font: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  color-scheme: light;
+}
+
+:root[data-theme='dark'] {
+  --accent-text: #f59c00;
+  --bg: #14171a;
+  --surface: #20252b;
+  --surface-alt: #191d22;
+  --text: #eceae6;
+  --muted: #a8b0b7;
+  --line: #333941;
+  --shadow: 0 18px 50px rgba(0, 0, 0, 0.35);
+  color-scheme: dark;
+}

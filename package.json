@@ -1,0 +1,22 @@
+{
+  "name": "ts-projekt",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "node server/index.mjs",
+    "admin:create": "node scripts/create-admin.mjs",
+    "admin:buero": "node scripts/create-buero.mjs",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write \"src/**/*.{ts,css}\" index.html *.json .prettierrc.json",
+    "format:check": "prettier --check \"src/**/*.{ts,css}\" index.html *.json .prettierrc.json"
+  },
+  "devDependencies": {
+    "prettier": "^3.10.1",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.6"
+  }
+}
