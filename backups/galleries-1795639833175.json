@@ -1,0 +1,533 @@
+[
+  {
+    "slug": "freisitz-gallerie",
+    "title": "Freisitz Gallerie",
+    "product": "Freisitz",
+    "images": [
+      "/assets/galleries/freisitz-gallerie/02.jpg",
+      "/assets/galleries/freisitz-gallerie/03.jpg",
+      "/assets/galleries/freisitz-gallerie/04.jpg",
+      "/assets/galleries/freisitz-gallerie/05.jpg",
+      "/assets/galleries/freisitz-gallerie/07.jpg",
+      "/assets/galleries/freisitz-gallerie/09.jpg",
+      "/assets/galleries/freisitz-gallerie/11.jpg",
+      "/assets/galleries/freisitz-gallerie/13.jpg",
+      "/assets/galleries/freisitz-gallerie/14.jpg",
+      "/assets/galleries/freisitz-gallerie/15.jpg",
+      "/assets/galleries/freisitz-gallerie/16.jpg",
+      "/assets/galleries/freisitz-gallerie/17.jpg",
+      "/assets/galleries/freisitz-gallerie/18.jpg",
+      "/assets/galleries/freisitz-gallerie/19.jpg",
+      "/assets/galleries/freisitz-gallerie/20.jpg",
+      "/assets/galleries/freisitz-gallerie/21.jpg",
+      "/assets/galleries/freisitz-gallerie/22.jpg",
+      "/assets/galleries/freisitz-gallerie/23.jpg",
+      "/assets/galleries/freisitz-gallerie/24.jpg",
+      "/assets/galleries/freisitz-gallerie/25.jpg",
+      "/assets/galleries/freisitz-gallerie/26.jpg",
+      "/assets/galleries/freisitz-gallerie/27.jpg",
+      "/assets/galleries/freisitz-gallerie/28.jpg",
+      "/assets/galleries/freisitz-gallerie/29.jpg"
+    ],
+    "groups": [
+      {
+        "name": "Qbus | Freisitz",
+        "description": [
+          "Freistehend oder Wandmontage.",
+          "Horizontalmarkise plus Senkrechtmarkise max. 1000mm absenkbar.",
+          "Heiz- und Lichtsysteme integrierbar.",
+          "Senkrechtmarkisen/Glasschiebeelemente nachrüstbar",
+          "In allen RAL Tönen möglich"
+        ],
+        "images": [
+          "/assets/galleries/freisitz-gallerie/02.jpg",
+          "/assets/galleries/freisitz-gallerie/03.jpg",
+          "/assets/galleries/freisitz-gallerie/04.jpg"
+        ]
+      },
+      {
+        "name": "Freisitzüberdachung",
+        "description": [
+          "Überdachte Sitzplätze mit Sonnen-, Wind- und Sichtschutz.",
+          "Die Bilder zeigen unterschiedliche Freisitzlösungen im Alltag."
+        ],
+        "images": [
+          "/assets/galleries/freisitz-gallerie/07.jpg",
+          "/assets/galleries/freisitz-gallerie/07.jpg",
+          "/assets/galleries/freisitz-gallerie/09.jpg",
+          "/assets/galleries/freisitz-gallerie/11.jpg",
+          "/assets/galleries/freisitz-gallerie/13.jpg",
+          "/assets/galleries/freisitz-gallerie/16.jpg",
+          "/assets/galleries/freisitz-gallerie/17.jpg",
+          "/assets/galleries/freisitz-gallerie/19.jpg",
+          "/assets/galleries/freisitz-gallerie/21.jpg",
+          "/assets/galleries/freisitz-gallerie/23.jpg",
+          "/assets/galleries/freisitz-gallerie/25.jpg",
+          "/assets/galleries/freisitz-gallerie/27.jpg",
+          "/assets/galleries/freisitz-gallerie/29.jpg"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "src": "/assets/examples/freisitz-sitzgruppe.jpg",
+        "caption": "Freisitzüberdachung mit Sitzgruppe",
+        "type": "Freisitzüberdachung"
+      },
+      {
+        "src": "/assets/examples/freisitz-terrassengarnitur.jpg",
+        "caption": "Terrassengarnitur im Freisitz",
+        "type": "Freisitz"
+      },
+      {
+        "src": "/assets/examples/freisitz-moderne-moebel.jpg",
+        "caption": "Moderne Freisitzmöbel",
+        "type": "Freisitz"
+      },
+      {
+        "src": "/assets/examples/freisitz-sitzgruppe-2.jpg",
+        "caption": "Freisitz mit Sitzgruppe am Abend",
+        "type": "Freisitzüberdachung"
+      },
+      {
+        "src": "/assets/examples/freisitz-garten.jpg",
+        "caption": "Freisitz im Garten",
+        "type": "Freisitz"
+      },
+      {
+        "src": "/assets/examples/freisitz-abend.jpg",
+        "caption": "Beleuchteter Freisitz",
+        "type": "Freisitz mit Lichtsystem"
+      }
+    ]
+  },
+  {
+    "slug": "markisen-gallerie",
+    "title": "Markisen Gallerie",
+    "product": "Markisen",
+    "images": [
+      "/assets/galleries/markisen-gallerie/14.jpg",
+      "/assets/galleries/markisen-gallerie/12.jpg",
+      "/assets/galleries/markisen-gallerie/10.jpg",
+      "/assets/galleries/markisen-gallerie/06.jpg",
+      "/assets/galleries/markisen-gallerie/08.jpg",
+      "/assets/galleries/markisen-gallerie/16.jpg",
+      "/assets/galleries/markisen-gallerie/18.jpg",
+      "/assets/galleries/markisen-gallerie/20.jpg",
+      "/assets/galleries/markisen-gallerie/22.jpg",
+      "/assets/galleries/markisen-gallerie/24.jpg",
+      "/assets/galleries/markisen-gallerie/26.jpg",
+      "/assets/galleries/markisen-gallerie/02.jpg",
+      "/assets/galleries/markisen-gallerie/04.jpg"
+    ],
+    "groups": [
+      {
+        "name": "Novetta Plus F",
+        "description": [
+          "Sonderausstattung LEDs im Cassettenprofil erhältlich, inkl. ausfahrbarem Volant"
+        ],
+        "images": [
+          "/assets/galleries/markisen-gallerie/14.jpg",
+          "/assets/galleries/markisen-gallerie/12.jpg",
+          "/assets/galleries/markisen-gallerie/10.jpg",
+          "/assets/galleries/markisen-gallerie/06.jpg",
+          "/assets/galleries/markisen-gallerie/08.jpg"
+        ]
+      },
+      {
+        "name": "Prima C1",
+        "description": [
+          "Flachcassette mit Gelenkarmen aus geräuschgedämpften innenliegenden Federn, Kraftumlenkung durch zwei stabile kunsstoffummantelte Stahlseile.",
+          "In allen RAL Tönen erhältlich"
+        ],
+        "images": [
+          "/assets/galleries/markisen-gallerie/16.jpg"
+        ]
+      },
+      {
+        "name": "Novetta Basis",
+        "description": [
+          "Offene Gelenkarmmarkise aus stranggepresstem Aluminium mit geräuschgedämpfden innenliegenden Federn, Kraftumlenkung durch eine Rollenumlenkkette.",
+          "Funkmotor und Windpaket erhältlich."
+        ],
+        "images": [
+          "/assets/galleries/markisen-gallerie/18.jpg",
+          "/assets/galleries/markisen-gallerie/20.jpg"
+        ]
+      },
+      {
+        "name": "Novetta Plus F",
+        "description": [
+          "Cassettenprofil aus stranggepresstem Aluminium mit geräuschgedämpfden innenliegenden Federn, Kraftumlenkung durch eine Rollenumlenkkette.",
+          "Bis 8m Breite möglich.",
+          "Funkmotor und Windpaket erhältlich.",
+          "In allen RAL Tönen erhältlich",
+          "Inkl. 130cm ausfahrbarem Volant."
+        ],
+        "images": [
+          "/assets/galleries/markisen-gallerie/22.jpg",
+          "/assets/galleries/markisen-gallerie/24.jpg"
+        ]
+      },
+      {
+        "name": "Prima T",
+        "description": [
+          "Tragrohrmarkise (Offen)",
+          "Gelenkarme mit geräuschgedämpften innenliegenden Federn, Kraftumlenkung durch zwei stabile kunststoffummantelte Stahlseile.",
+          "In allen RAL Tönen erhältlich"
+        ],
+        "images": [
+          "/assets/galleries/markisen-gallerie/26.jpg"
+        ]
+      },
+      {
+        "name": "Markisenneubespannung",
+        "description": [
+          "für alle Fachhändlermarkisen und nachträgliche Motorisierung möglich"
+        ],
+        "images": [
+          "/assets/galleries/markisen-gallerie/02.jpg",
+          "/assets/galleries/markisen-gallerie/04.jpg"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "src": "/assets/examples/markise-cafe-2.webp",
+        "caption": "Markise über dem Caféeingang",
+        "type": "Cassettenmarkise"
+      },
+      {
+        "src": "/assets/examples/markise-eingang.jpg",
+        "caption": "Markise am Hauseingang",
+        "type": "Markise"
+      },
+      {
+        "src": "/assets/examples/markise-strasse.jpg",
+        "caption": "Markise an der Geschäftsfront",
+        "type": "Markise"
+      },
+      {
+        "src": "/assets/examples/markise-beschattung.jpg",
+        "caption": "Beschattung mit Gelenkarmmarkise",
+        "type": "Gelenkarmmarkise"
+      },
+      {
+        "src": "/assets/examples/markise-gebaeude.jpg",
+        "caption": "Markise am Gebäude",
+        "type": "Markise"
+      },
+      {
+        "src": "/assets/examples/markisen-geschaefte.jpg",
+        "caption": "Markisen im Geschäftsbereich",
+        "type": "Markise"
+      }
+    ]
+  },
+  {
+    "slug": "wiga-gallerie",
+    "title": "Wintergartenmarkisen Gallerie",
+    "product": "Wintergartenmarkisen",
+    "images": [
+      "/assets/galleries/wiga-gallerie/02.jpg",
+      "/assets/galleries/wiga-gallerie/04.jpg"
+    ],
+    "groups": [
+      {
+        "name": "Wintergartenmarkise",
+        "description": [
+          "Beschattung unter Glas – für angenehme Temperaturen im Wintergarten.",
+          "Die Bilder zeigen markierte Wintergärten und ihre Beschattung im Alltag."
+        ],
+        "images": [
+          "/assets/galleries/wiga-gallerie/02.jpg",
+          "/assets/galleries/wiga-gallerie/04.jpg"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "src": "/assets/examples/wiga-sunroom.jpg",
+        "caption": "Wintergarten mit Sonnenschutz",
+        "type": "Wintergartenmarkise"
+      },
+      {
+        "src": "/assets/examples/wiga-tee.jpg",
+        "caption": "Sitzplatz im Wintergarten",
+        "type": "Wintergarten"
+      },
+      {
+        "src": "/assets/examples/wiga-glasfront.jpg",
+        "caption": "Glasfront am Wintergarten",
+        "type": "Wintergarten"
+      },
+      {
+        "src": "/assets/examples/wiga-hotel.jpg",
+        "caption": "Wintergarten am Gebäude",
+        "type": "Wintergarten"
+      },
+      {
+        "src": "/assets/examples/wiga-deepwood.jpg",
+        "caption": "Wintergarten mit Beschattung",
+        "type": "Wintergartenmarkise"
+      }
+    ]
+  },
+  {
+    "slug": "zip-gallerie",
+    "title": "Senkrechtmarkisen Gallerie",
+    "product": "Senkrechtmarkisen",
+    "images": [
+      "/assets/galleries/zip-gallerie/02.jpg",
+      "/assets/galleries/zip-gallerie/04.jpg",
+      "/assets/galleries/zip-gallerie/06.jpg",
+      "/assets/galleries/zip-gallerie/08.jpg",
+      "/assets/galleries/zip-gallerie/09.jpg",
+      "/assets/galleries/zip-gallerie/10.jpg",
+      "/assets/galleries/zip-gallerie/12.jpg",
+      "/assets/galleries/zip-gallerie/14.jpg",
+      "/assets/galleries/zip-gallerie/15.jpg",
+      "/assets/galleries/zip-gallerie/16.jpg",
+      "/assets/galleries/zip-gallerie/17.jpg",
+      "/assets/galleries/zip-gallerie/18.jpg",
+      "/assets/galleries/zip-gallerie/19.jpg",
+      "/assets/galleries/zip-gallerie/20.jpg",
+      "/assets/galleries/zip-gallerie/21.jpg"
+    ],
+    "groups": [
+      {
+        "name": "Senkrechtmarkise",
+        "description": [
+          "Senkrechter Sonnen- und Sichtschutz für Fenster, Terrassentüren und Freisitze.",
+          "Die gezeigten Anlagen lassen sich parteiweise absenken und geben die Sicht bei Bedarf frei."
+        ],
+        "images": [
+          "/assets/galleries/zip-gallerie/02.jpg",
+          "/assets/galleries/zip-gallerie/04.jpg",
+          "/assets/galleries/zip-gallerie/06.jpg",
+          "/assets/galleries/zip-gallerie/08.jpg",
+          "/assets/galleries/zip-gallerie/09.jpg",
+          "/assets/galleries/zip-gallerie/10.jpg",
+          "/assets/galleries/zip-gallerie/12.jpg",
+          "/assets/galleries/zip-gallerie/14.jpg",
+          "/assets/galleries/zip-gallerie/15.jpg",
+          "/assets/galleries/zip-gallerie/16.jpg",
+          "/assets/galleries/zip-gallerie/17.jpg",
+          "/assets/galleries/zip-gallerie/18.jpg",
+          "/assets/galleries/zip-gallerie/19.jpg",
+          "/assets/galleries/zip-gallerie/20.jpg",
+          "/assets/galleries/zip-gallerie/21.jpg"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "src": "/assets/examples/senkrecht-terrassenbeschattung.jpg",
+        "caption": "Senkrechtmarkise an der Terrasse",
+        "type": "Senkrechtmarkise"
+      },
+      {
+        "src": "/assets/examples/senkrecht-metall-1.jpg",
+        "caption": "Senkrechtbeschattung am Metallfenster",
+        "type": "Senkrechtmarkise"
+      },
+      {
+        "src": "/assets/examples/senkrecht-metall-2.jpg",
+        "caption": "Vertikale Beschattung im Fenster",
+        "type": "Senkrechtmarkise"
+      },
+      {
+        "src": "/assets/examples/senkrecht-pvc.jpg",
+        "caption": "Senkrechter Sichtschutz in PVC-Optik",
+        "type": "Senkrechtmarkise"
+      },
+      {
+        "src": "/assets/examples/senkrecht-blau.jpg",
+        "caption": "Blauer Sichtschutz am Fenster",
+        "type": "Senkrechtmarkise"
+      }
+    ]
+  },
+  {
+    "slug": "rollladen-gallerie",
+    "title": "Rollladen Gallerie",
+    "product": "Rollläden",
+    "images": [
+      "/assets/galleries/rollladen-gallerie/01.jpg",
+      "/assets/galleries/rollladen-gallerie/02.jpg",
+      "/assets/galleries/rollladen-gallerie/03.jpg",
+      "/assets/galleries/rollladen-gallerie/05.jpg"
+    ],
+    "groups": [
+      {
+        "name": "Vorbaurollläden",
+        "description": [
+          "Rollladenkasten vor der Fassade, nachträglich montierbar."
+        ],
+        "images": [
+          "/assets/galleries/rollladen-gallerie/01.jpg"
+        ]
+      },
+      {
+        "name": "Asymmetrischer Rollladen",
+        "description": [
+          "Individuelle Rollladenlösung für unterschiedliche Fenstergrößen und -formen."
+        ],
+        "images": [
+          "/assets/galleries/rollladen-gallerie/02.jpg",
+          "/assets/galleries/rollladen-gallerie/03.jpg",
+          "/assets/galleries/rollladen-gallerie/05.jpg"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "src": "/assets/examples/rollladen-window-shutter.webp",
+        "caption": "Rollladen am Fenster",
+        "type": "Rollladen"
+      },
+      {
+        "src": "/assets/examples/rollladen-closed.webp",
+        "caption": "Geschlossener Rollladen",
+        "type": "Rollladen"
+      },
+      {
+        "src": "/assets/examples/rollladen-fenster.jpg",
+        "caption": "Rollladen an der Fassade",
+        "type": "Vorbaurollladen"
+      },
+      {
+        "src": "/assets/examples/rollladen-alt.jpg",
+        "caption": "Älterer Rollladen am Haus",
+        "type": "Rollladen"
+      },
+      {
+        "src": "/assets/examples/rollladen-rot-gruen.jpg",
+        "caption": "Bunter Rollladen am Fenster",
+        "type": "Rollladen"
+      }
+    ]
+  },
+  {
+    "slug": "plissee-gallerie",
+    "title": "Plissee Gallerie",
+    "product": "Plissees",
+    "images": [
+      "/assets/galleries/plissee-gallerie/02.jpg",
+      "/assets/galleries/plissee-gallerie/03.jpg",
+      "/assets/galleries/plissee-gallerie/04.jpg",
+      "/assets/galleries/plissee-gallerie/05.jpg",
+      "/assets/galleries/plissee-gallerie/06.jpg",
+      "/assets/galleries/plissee-gallerie/07.jpg"
+    ],
+    "groups": [
+      {
+        "name": "Plafond-Plissee",
+        "description": [
+          "Für Überdachungen mit Stabbedienung und witterungsbeständigem Stoff."
+        ],
+        "images": [
+          "/assets/galleries/plissee-gallerie/02.jpg",
+          "/assets/galleries/plissee-gallerie/03.jpg"
+        ]
+      },
+      {
+        "name": "Plissee",
+        "description": [
+          "Universell einsetzbar. Verspannung zum Schrauben oder kleben. Von transparent bis verdunkelnd.",
+          "Auch in Sonderformen erhältlich."
+        ],
+        "images": [
+          "/assets/galleries/plissee-gallerie/04.jpg",
+          "/assets/galleries/plissee-gallerie/05.jpg",
+          "/assets/galleries/plissee-gallerie/06.jpg",
+          "/assets/galleries/plissee-gallerie/07.jpg"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "src": "/assets/examples/plissee-windows.jpg",
+        "caption": "Plissee am Fenster",
+        "type": "Plissee"
+      },
+      {
+        "src": "/assets/examples/plissee-closeup.jpg",
+        "caption": "Plissee im Detail",
+        "type": "Plissee"
+      },
+      {
+        "src": "/assets/examples/plissee-linien.jpg",
+        "caption": "Plissee mit Lichtstreifen",
+        "type": "Plissee"
+      },
+      {
+        "src": "/assets/examples/plissee-frei.webp",
+        "caption": "Plissee für den Wintergarten",
+        "type": "Plafond-Plissee"
+      },
+      {
+        "src": "/assets/examples/plissee-holz.jpg",
+        "caption": "Plissee in Holzumgebung",
+        "type": "Plissee"
+      }
+    ]
+  },
+  {
+    "slug": "raffstores-gallerie",
+    "title": "Raffstores Gallerie",
+    "product": "Raffstores",
+    "images": [
+      "/assets/galleries/raffstores-gallerie/02.jpg",
+      "/assets/galleries/raffstores-gallerie/04.jpg",
+      "/assets/galleries/raffstores-gallerie/06.jpg",
+      "/assets/galleries/raffstores-gallerie/07.jpg",
+      "/assets/galleries/raffstores-gallerie/08.jpg",
+      "/assets/galleries/raffstores-gallerie/09.jpg"
+    ],
+    "groups": [
+      {
+        "name": "Raffstore",
+        "description": [
+          "Außenliegender Sonnenschutz mit verstellbaren Lamellen.",
+          "Die Lamellen lenken das Licht, ohne den Blick nach draußen zu nehmen."
+        ],
+        "images": [
+          "/assets/galleries/raffstores-gallerie/02.jpg",
+          "/assets/galleries/raffstores-gallerie/04.jpg",
+          "/assets/galleries/raffstores-gallerie/06.jpg",
+          "/assets/galleries/raffstores-gallerie/07.jpg",
+          "/assets/galleries/raffstores-gallerie/08.jpg",
+          "/assets/galleries/raffstores-gallerie/09.jpg"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "src": "/assets/examples/raffstore-sunshutters.webp",
+        "caption": "Raffstore mit verstellbaren Lamellen",
+        "type": "Raffstore"
+      },
+      {
+        "src": "/assets/examples/raffstore-venetian.webp",
+        "caption": "Außenjalousie am Fenster",
+        "type": "Raffstore"
+      },
+      {
+        "src": "/assets/examples/raffstore-louver-door.webp",
+        "caption": "Lamellen an der Tür",
+        "type": "Raffstore"
+      },
+      {
+        "src": "/assets/examples/raffstore-buero.jpg",
+        "caption": "Raffstore im Büro",
+        "type": "Raffstore"
+      },
+      {
+        "src": "/assets/examples/raffstore-schatten.jpg",
+        "caption": "Schattenspendender Raffstore",
+        "type": "Raffstore"
+      }
+    ]
+  }
+]

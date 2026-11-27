@@ -1,0 +1,174 @@
+{
+  "company": {
+    "name": "SmartSun GmbH",
+    "tagline": "Sonnenschutz. Wetterschutz. Sichtschutz.",
+    "address": [
+      "Hemkenroder Straße 5",
+      "38162 Cremlingen/OT Destedt"
+    ],
+    "phone": "05306 556073",
+    "phoneShort": "05306 556073",
+    "emergencyPhone": "0157 80619465",
+    "email": "info@smartsun38.de",
+    "emailManaging": "lippelt@smartsun38.de",
+    "appointmentEmail": "",
+    "openingHours": [
+      {
+        "label": "Telefon Mo – Fr",
+        "value": "8:00 – 18:00 Uhr"
+      },
+      {
+        "label": "Telefon Sa",
+        "value": "9:00 – 13:00 Uhr"
+      },
+      {
+        "label": "Ausstellung Mo – Fr",
+        "value": "9:00 – 12:30 Uhr"
+      },
+      {
+        "label": "Ausstellung",
+        "value": "nach telefonischer Vereinbarung"
+      }
+    ]
+  },
+  "galleryNav": [
+    {
+      "label": "Freisitz Gallerie",
+      "path": "/galerie/freisitz-gallerie"
+    },
+    {
+      "label": "Markisen Gallerie",
+      "path": "/galerie/markisen-gallerie"
+    },
+    {
+      "label": "Wintergartenmarkisen Gallerie",
+      "path": "/galerie/wiga-gallerie"
+    },
+    {
+      "label": "Senkrechtmarkisen Gallerie",
+      "path": "/galerie/zip-gallerie"
+    },
+    {
+      "label": "Rollladen Gallerie",
+      "path": "/galerie/rollladen-gallerie"
+    },
+    {
+      "label": "Plissee Gallerie",
+      "path": "/galerie/plissee-gallerie"
+    },
+    {
+      "label": "Raffstores Gallerie",
+      "path": "/galerie/raffstores-gallerie"
+    }
+  ],
+  "navigation": [
+    {
+      "label": "Startseite",
+      "path": "/"
+    },
+    {
+      "label": "Markisen",
+      "path": "/markisen"
+    },
+    {
+      "label": "Plissees",
+      "path": "/plissees"
+    },
+    {
+      "label": "Insektenschutz",
+      "path": "/insektenschutz"
+    },
+    {
+      "label": "Rollläden",
+      "path": "/rolllaeden"
+    },
+    {
+      "label": "Bildergalerien",
+      "path": "/bildergalerien",
+      "children": [
+        {
+          "label": "Freisitz Gallerie",
+          "path": "/galerie/freisitz-gallerie"
+        },
+        {
+          "label": "Markisen Gallerie",
+          "path": "/galerie/markisen-gallerie"
+        },
+        {
+          "label": "Wintergartenmarkisen Gallerie",
+          "path": "/galerie/wiga-gallerie"
+        },
+        {
+          "label": "Senkrechtmarkisen Gallerie",
+          "path": "/galerie/zip-gallerie"
+        },
+        {
+          "label": "Rollladen Gallerie",
+          "path": "/galerie/rollladen-gallerie"
+        },
+        {
+          "label": "Plissee Gallerie",
+          "path": "/galerie/plissee-gallerie"
+        },
+        {
+          "label": "Raffstores Gallerie",
+          "path": "/galerie/raffstores-gallerie"
+        }
+      ]
+    },
+    {
+      "label": "Notdienst",
+      "path": "/notdienst"
+    },
+    {
+      "label": "Terminvereinbarung",
+      "path": "/termine",
+      "children": [
+        {
+          "label": "Kontaktdaten",
+          "path": "/termine"
+        },
+        {
+          "label": "Terminwunsch anmelden",
+          "path": "/terminwunsch"
+        },
+        {
+          "label": "Kontaktformular",
+          "path": "/kontakt"
+        }
+      ]
+    },
+    {
+      "label": "In eigener Sache",
+      "path": "/in-eigener-sache",
+      "children": [
+        {
+          "label": "Team",
+          "path": "/team"
+        },
+        {
+          "label": "Karriere",
+          "path": "/karriere"
+        }
+      ]
+    },
+    {
+      "label": "Blog",
+      "path": "/blog"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Impressum",
+      "path": "/impressum"
+    },
+    {
+      "label": "Datenschutz",
+      "path": "/datenschutz"
+    },
+    {
+      "label": "AGB",
+      "path": "/agb"
+    }
+  ]
+}

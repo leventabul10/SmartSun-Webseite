@@ -1,0 +1,53 @@
+{
+  "eyebrow": "Anmeldung",
+  "heading": "Terminwunsch anmelden",
+  "intro": "Felder mit * sind erforderlich. Es werden aktuell keine Daten versendet.",
+  "callout": {
+    "eyebrow": "Lieber direkt sprechen?",
+    "text": "Wir sind für Sie da – rufen Sie uns gern an.",
+    "mobileLabel": "Jetzt anrufen"
+  },
+  "personal": "Persönliche Angaben",
+  "streetLabel": "Straße und Hausnummer",
+  "streetPlaceholder": "z. B. Hemkenroder Straße 5",
+  "cityLabel": "PLZ und Ort",
+  "cityPlaceholder": "z. B. 38162 Destedt",
+  "topicLegend": "Wobei können wir helfen? *",
+  "otherLabel": "Sonstiges",
+  "otherPlaceholder": "Bitte hier Ihr Anliegen eintragen",
+  "timeLegend": "Gewünschtes Zeitfenster",
+  "timeNote": "Wir melden uns noch einmal wegen des Termins und bestätigen, ob wir zu dieser Zeit können.",
+  "timeLabel": "Uhrzeit ab",
+  "timeHint": "Ab wann sind Sie zuhause erreichbar?",
+  "dateLabel": "Datum",
+  "dateHint": "Frühestens in zwei Arbeitstagen (Mo–Fr).",
+  "messageLegend": "Ihre Nachricht",
+  "privacyLegend": "Datenschutz und -verarbeitung",
+  "consent": "Ich bin mit der Speicherung und Verarbeitung meiner Angaben gemäß der Datenschutzerklärung einverstanden. *",
+  "privacyHelp": "Eine Bearbeitung Ihrer Anmeldung ist nur mit der Erlaubnis der Datenspeicherung möglich. Die Nutzung Ihrer Daten erfolgt auf Basis unserer Datenschutzbestimmungen, die Sie auch auf dieser Website finden.",
+  "submit": "Abschicken",
+  "success": "Vielen Dank – Ihre Anmeldung ist vollständig. Der Versand wird später angebunden, es wurden keine Daten übertragen.",
+  "errorSummary": "Bitte prüfen Sie die markierten Felder.",
+  "errors": {
+    "anrede": "Bitte eine Anrede auswählen.",
+    "vorname": "Bitte Vornamen angeben.",
+    "nachname": "Bitte Nachnamen angeben.",
+    "email": "Bitte eine gültige Mailadresse angeben.",
+    "telefon": "Bitte eine Telefonnummer angeben.",
+    "strasse": "Bitte Straße und Hausnummer angeben.",
+    "ort": "Bitte PLZ und Ort angeben.",
+    "thema": "Bitte mindestens ein Thema auswählen oder Sonstiges angeben.",
+    "uhrzeit": "Bitte eine Uhrzeit angeben.",
+    "datum": "Bitte ein Datum auswählen.",
+    "datumPast": "Bitte mindestens zwei Arbeitstage Vorlauf einplanen.",
+    "datenschutz": "Bitte die Datenschutzeinwilligung bestätigen."
+  },
+  "topics": [
+    "Markisen",
+    "Rollläden",
+    "Smart Home",
+    "Plissees",
+    "Insektenschutz",
+    "Reparatur- und/oder Service"
+  ]
+}

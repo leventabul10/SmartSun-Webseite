@@ -1,0 +1,60 @@
+{
+  "eyebrow": "Kontaktformular",
+  "heading": "Ihre Anfrage",
+  "intro": "Felder mit * sind erforderlich. Es werden aktuell keine Daten versendet.",
+  "personal": "Persönliche Angaben",
+  "labels": {
+    "anrede": "Anrede",
+    "vorname": "Vorname *",
+    "nachname": "Nachname *",
+    "email": "Mailadresse *",
+    "telefonPrivat": "Telefon privat",
+    "telefonDienstlich": "Telefon dienstlich",
+    "mobiltelefon": "Mobiltelefon"
+  },
+  "anredeOptions": [
+    "Bitte wählen",
+    "Herr",
+    "Frau",
+    "Keine Angabe"
+  ],
+  "callback": "Bitte rufen sie mich an",
+  "callbackHelp": "Ich möchte mich beraten lassen und bitte Sie, mich anzurufen. Unten finden Sie eine Info, wann Sie mich am Besten erreichen können.",
+  "topicsLegend": "Wobei können wir helfen? *",
+  "topics": [
+    "Markisen",
+    "Rollläden",
+    "Smart Home",
+    "Plissees",
+    "Insektenschutz",
+    "Reparatur- und/oder Service"
+  ],
+  "timeLegend": "Gewünschtes Zeitfenster",
+  "timeSlots": [
+    "9 Uhr und 12 Uhr",
+    "12 Uhr und 14 Uhr",
+    "14 Uhr und 17 Uhr",
+    "17 Uhr und 19 Uhr",
+    "Samstags 9 Uhr und 12 Uhr"
+  ],
+  "timeHelp": "Gewünschtes Zeitfenster auswählen, wir melden uns dann wie gewünscht.",
+  "privacyLegend": "Datenschutz und -verarbeitung",
+  "consents": [
+    "Ja, Sie dürfen mich postalisch per Brief kontakten",
+    "Ja, Sie dürfen mich per Email kontakten",
+    "Ja, Sie dürfen mich anrufen",
+    "Ja, Sie dürfen mich über Social Media ansprechen"
+  ],
+  "consent": "Ich bin mit der Speicherung und Verarbeitung meiner Angaben gemäß der Datenschutzerklärung einverstanden. *",
+  "privacyHelp": "Eine Bearbeitung Ihrer Anfrage ist nur mit der Erlaubnis der Datenspeicherung möglich. Die Nutzung Ihrer Daten erfolgt auf Basis unserer Datenschutzbestimmungen, die Sie auch auf dieser Website finden.",
+  "submit": "Anfrage prüfen",
+  "success": "Vielen Dank – Ihre Angaben sind vollständig. Der Versand wird später angebunden, es wurden keine Daten übertragen.",
+  "errorSummary": "Bitte prüfen Sie die markierten Felder.",
+  "errors": {
+    "vorname": "Bitte Vornamen angeben.",
+    "nachname": "Bitte Nachnamen angeben.",
+    "email": "Bitte eine gültige Mailadresse angeben.",
+    "thema": "Bitte mindestens ein Thema auswählen.",
+    "datenschutz": "Bitte die Datenschutzeinwilligung bestätigen."
+  }
+}
